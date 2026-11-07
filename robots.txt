@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://njshell2.github.io/first-saturday-trips/sitemap.xml
